@@ -1,6 +1,6 @@
 ### Greetings, 👋
 
-<h1 align="center">Hi 👋, I'm Assad isah</h1>
+<h1 align="center">Hi 👋, I'm Assad Isah</h1>
 <h3 align="center">Student at Microverse🌟<img align="center"
       src="https://media-exp1.licdn.com/dms/image/C560BAQHr8P7gQ95yCQ/company-logo_100_100/0/1578673850004?e=1652918400&v=beta&t=RXH0ssSZr97PvQaT2jIxUMIaJkUaz8y790PmEicZ6WA"
       alt="adam pithewan" height="30" width="40" /></a>.</h3>
@@ -39,10 +39,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+      alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </p>
