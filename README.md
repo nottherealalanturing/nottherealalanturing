@@ -15,9 +15,9 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="assad-isah" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Sotware Engineering
 
-- 📫 How to reach me **nottherealalanturing@gmail.com**
+- 📫 You can reach me on *nottherealalanturing@gmail.com**
 
 <br>
 
