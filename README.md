@@ -2,6 +2,10 @@
 
 A creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
 
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="assad-isah" />
+
+
 ## Contacts
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nottherealalanturing@gmail.com)
