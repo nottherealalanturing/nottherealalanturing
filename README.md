@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Assad Isah</h1>
 
-Full-stack web developer with a knack for bringing UX design to life and a strong ambition to build simple, user-friendly solutions.
+A creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
 
 ## Contacts
 
