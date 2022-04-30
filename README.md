@@ -1,4 +1,4 @@
-# Hi there, I'm Assad! 👋🏿
+<h1 align="center">Hi there, I'm Assad! 👋🏿</h1>
 
 A creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
 
