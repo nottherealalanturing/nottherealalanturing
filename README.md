@@ -1,6 +1,6 @@
-<h1>You found me! 👋🏿</h1>
+<h1>Hi there! 👋🏿</h1>
 
-Well, you did it, you found me! Hi then, I'm Assad a creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
+Well, you did it, you found me! Hi then, I'm Assad, a creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
 
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="assad-isah" />
