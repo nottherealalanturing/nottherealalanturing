@@ -1,4 +1,4 @@
-<h1 align="center">You found me! 👋🏿</h1>
+<h1>You found me! 👋🏿</h1>
 
 Well, you did it, you found me! Hi then, I'm Assad a creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
 
