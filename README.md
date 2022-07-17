@@ -25,6 +25,6 @@ Well, you did it, you found me! Hi then, I'm Assad, a creative Full-stack web de
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nottherealalanturing&count_private=true&show_icons=true&theme=onedark)](https://github.com/nottherealalanturing/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aburayhaan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealalanturing&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nottherealalanturing&layout=compact&theme=onedark)](https://github.com/nottherealalanturing/github-readme-stats)
