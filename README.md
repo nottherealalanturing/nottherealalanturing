@@ -7,7 +7,6 @@ Well, you did it, you found me! Hi then, I'm Assad, a creative Full-stack web de
 ## Contacts
 
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:nottherealalanturing@gmail.com)
-[![Twitter](https://img.shields.io/badge/twitter-%23D14836.svg?&style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/assadeesaa)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assadisah/)
 
 ## Languages, Frameworks & Libraries
