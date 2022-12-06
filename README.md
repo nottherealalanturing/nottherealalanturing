@@ -1,6 +1,8 @@
 <h1>Hi there! 👋🏿</h1>
 
-Well, you did it, you found me! Hi then, I'm Assad, a creative Full-stack web developer with a knack for bringing UX designs to life and a strong ambition to build simple, user-friendly solutions.
+ Hi there, I'm Assad, a full-stack web developer with a passion for creating user-friendly solutions. 
+  I specialize in using JavaScript and Ruby to bring UX designs to life and build simple, intuitive products, 
+  features, and websites. 
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="assad-isah" />
 
