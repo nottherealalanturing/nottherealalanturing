@@ -1,6 +1,6 @@
 <h1>Hi there! 👋🏿</h1>
 
- Hi there, I'm a full-stack web developer with a passion for creating user-friendly solutions. 
+ I'm a full-stack web developer with a passion for creating user-friendly solutions. 
   I use JavaScript to bring UX designs to life and build simple, intuitive products, 
   features, and websites. 
 
